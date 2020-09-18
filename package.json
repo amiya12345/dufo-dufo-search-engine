@@ -1,0 +1,19 @@
+{
+  "name": "dufo",
+  "version": "1.0.0",
+  "description": "search engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amiya12345/dufo-dufo-search-engine.git"
+  },
+  "author": "Amiya Ranjan Sethi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amiya12345/dufo-dufo-search-engine/issues"
+  },
+  "homepage": "https://github.com/amiya12345/dufo-dufo-search-engine#readme"
+}
