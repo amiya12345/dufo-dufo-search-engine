@@ -84,3 +84,32 @@ body{
     -moz-box-shadow: 2px 1px 13px 0px rgba(0,0,0,0.75);
      box-shadow: 2px 1px 5px 0px rgba(0,0,0,0.75)
 }
+.main_page{
+   margin-left: 32px;
+   margin-right: 32px;
+   margin-top: 32px;
+}
+.link{
+    font-family:'Roboto', sans-serif; 
+    color: #7D7D7D;
+    opacity: 0.8;
+    font-size: 12px;
+    margin: 8px;
+    margin-left: 0;
+}
+.hyperlink{
+    font-family:'Roboto', sans-serif; 
+    color: #3F51F6; 
+    margin: 8px;
+    margin-left: 0;
+    font-size: 1.5em;
+    cursor: pointer;
+    
+}
+.hyperlink:hover{
+    text-decoration:underline;
+}
+.link_details{
+    color: #4E4E4E;
+    font-size: 16px;
+}

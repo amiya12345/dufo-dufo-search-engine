@@ -1,0 +1,12 @@
+.main_page{
+    display: grid;
+    grid-template-columns: repeat(12,1fr);
+    gap:32px;
+
+}
+.logo_img{
+    grid-column: 1/3;
+}
+.search_resultbar,.result1,.result2,.result3,.result4,.result5,.result6{
+    grid-column: 3/10;
+}
